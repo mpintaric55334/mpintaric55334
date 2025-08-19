@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matija  
 
-🎓 Fresh graduate in **Data Science** from the *Faculty of Electrical Engineering and Computing, University of Zagreb*.  
+🎓 Fresh master graduate in **Data Science** from the *Faculty of Electrical Engineering and Computing, University of Zagreb*.  
 
 ---
 
